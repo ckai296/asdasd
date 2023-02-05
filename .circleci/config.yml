@@ -22,7 +22,7 @@ jobs:
       
 
 workflows:
-  # Name of workflow
+  # Name of workfloww
   make:
     # List of jobs that will run
     jobs:
